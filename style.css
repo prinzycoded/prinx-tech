@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+body{
+    background: #f4f4f4;
+}
+.nav{
+    background: #556B2F;
+    height: 100vh;
+    width: 320px;
+}
+.sidebar{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.sidebar h1{
+    font-size: 30px;
+    opacity: 0.8;
+}
+.sidebar p{
+    font-size: 20px;
+    opacity: 0.8;
+}
+.hero-content p{
+    color: #f4f4f4;
+    text-align: inherit;
+    
+}
+.logo-icon{
+    font-size: 18pxs;
+}
+.get-started{
+    background: #c6f7a3;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.hero-content{
+    padding-top: 30px;
+}
+.hero-content h1{
+    color: #ffffff;
+    padding-left: 30px;
+}
+h1 span{
+    color: #c6f7a3;
+}
